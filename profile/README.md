@@ -9,6 +9,7 @@ If a problem irritates me enough and is dumb enough to solve in a weekend, I'll 
 That said, no promises I won't turn it into something bigger, but the string and wax are here.
 
 ## Projects
+- **cawcawcaw** — Spend less time announcing, more time creating. THis handles the first part automatically. CAW!  
 - **tank** — Battlezone-style tank game. Because sometimes you just need to shoot something.
 - **cortex** — Lightweight MCP-based short-term memory for Claude Code. Solves the compaction death spiral.
 - **mcp** — MCP setup for Claude. Brainstorm anywhere.
